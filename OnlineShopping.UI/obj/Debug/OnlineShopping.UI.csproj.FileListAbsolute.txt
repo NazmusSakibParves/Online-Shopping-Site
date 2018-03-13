@@ -1,0 +1,126 @@
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\roslyn\System.Reflection.Metadata.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\roslyn\VBCSCompiler.exe
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\ApplicationInsights.config
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\roslyn\csc.exe
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\roslyn\System.Collections.Immutable.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\roslyn\vbc.exe
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\roslyn\VBCSCompiler.exe.config
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\OnlineShopping.UI.dll.config
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\OnlineShopping.UI.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\OnlineShopping.UI.pdb
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\Castle.Core.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\EntityFramework.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\EntityFramework.SqlServer.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.AI.DependencyCollector.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.AI.Web.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.AI.WindowsServer.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.ApplicationInsights.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.Web.Infrastructure.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\Moq.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\Ninject.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\Ninject.Web.Common.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\Ninject.Web.Mvc.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\OnlineShopping.Bll.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\System.Web.Helpers.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\System.Web.Mvc.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\System.Web.Razor.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\System.Web.Webpages.Deployment.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\System.Web.Webpages.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\System.Web.Webpages.Razor.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\WebActivatorEx.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\OnlineShopping.Bll.pdb
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\Castle.Core.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\EntityFramework.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\EntityFramework.SqlServer.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.AI.DependencyCollector.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.AI.Web.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.AI.WindowsServer.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.ApplicationInsights.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\Moq.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\Ninject.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\Ninject.Web.Common.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\Ninject.Web.Mvc.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\System.Web.Razor.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\System.Web.Webpages.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\System.Web.Webpages.Deployment.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\System.Web.Webpages.Razor.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\System.Web.Helpers.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\bin\System.Web.Mvc.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\obj\Debug\OnlineShopping.UI.csprojResolveAssemblyReference.cache
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\obj\Debug\OnlineShopping.UI.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.UI\obj\Debug\OnlineShopping.UI.pdb
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\ApplicationInsights.config
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\roslyn\csc.exe
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\roslyn\System.Collections.Immutable.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\roslyn\System.Reflection.Metadata.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\roslyn\vbc.exe
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\roslyn\VBCSCompiler.exe
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\roslyn\VBCSCompiler.exe.config
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\OnlineShopping.UI.dll.config
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\OnlineShopping.UI.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\OnlineShopping.UI.pdb
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\Castle.Core.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\EntityFramework.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\EntityFramework.SqlServer.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.AI.DependencyCollector.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.AI.Web.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.AI.WindowsServer.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.ApplicationInsights.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.Web.Infrastructure.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\Moq.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\Ninject.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\Ninject.Web.Common.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\Ninject.Web.Mvc.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\OnlineShopping.Bll.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\System.Web.Helpers.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\System.Web.Mvc.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\System.Web.Razor.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\System.Web.Webpages.Deployment.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\System.Web.Webpages.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\System.Web.Webpages.Razor.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\WebActivatorEx.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\OnlineShopping.Bll.pdb
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\Castle.Core.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\EntityFramework.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\EntityFramework.SqlServer.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.AI.DependencyCollector.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.AI.Web.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.AI.WindowsServer.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.ApplicationInsights.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\Moq.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\Ninject.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\Ninject.Web.Common.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\Ninject.Web.Mvc.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\System.Web.Razor.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\System.Web.Webpages.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\System.Web.Webpages.Deployment.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\System.Web.Webpages.Razor.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\System.Web.Helpers.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\bin\System.Web.Mvc.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\obj\Debug\OnlineShopping.UI.csprojResolveAssemblyReference.cache
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\obj\Debug\OnlineShopping.UI.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.UI\obj\Debug\OnlineShopping.UI.pdb

@@ -1,0 +1,52 @@
+﻿@model OnlineShopping.Bll.Entites.ShippingDetails
+    
+@{ 
+    ViewBag.Title = "Online Shopping Site : Checkout";
+}
+
+    <h2>Check out Now</h2>
+    <p>Please Enter your details correctly, and We'll ship your Orders right away.</p>
+    @using (Html.BeginForm())
+    {
+        <h3>Ship To</h3>
+
+        <div class="form-group">
+            <label>Name:</label>
+            @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            <label>Contact Number:</label>
+            @Html.TextBoxFor(x => x.ContactNumber, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            <label>Address:</label>
+            @Html.TextBoxFor(x => x.Address, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            <label>District:</label>
+            @Html.TextBoxFor(x => x.District, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            <label>Email:</label>
+            @Html.TextBoxFor(x => x.Email, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            <label>Comments:</label>
+            @Html.TextBoxFor(x => x.Comments, new { @class = "form-control" })
+        </div>
+
+        <h5>(Optional)</h5>
+        <div class="checkbox">
+            @Html.EditorFor(x => x.GiftWrap)
+            Gift Wrap these items
+        </div>
+
+    <div class="text-center">
+        <input class="btn btn-primary" type="submit" value="Complete Order"/>
+    </div>
+}

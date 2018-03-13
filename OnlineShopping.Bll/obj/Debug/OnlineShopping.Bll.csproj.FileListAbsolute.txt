@@ -1,0 +1,49 @@
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\OnlineShopping.Bll.dll.config
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\OnlineShopping.Bll.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\OnlineShopping.Bll.pdb
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\EntityFramework.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\EntityFramework.SqlServer.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\System.Web.Helpers.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\System.Web.Mvc.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\System.Web.Razor.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\System.Web.WebPages.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\EntityFramework.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\EntityFramework.SqlServer.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\System.Web.Helpers.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\System.Web.Mvc.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\System.Web.Razor.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\System.Web.WebPages.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.Bll\obj\Debug\OnlineShopping.Bll.Migrations.initial.resources
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.Bll\obj\Debug\OnlineShopping.Bll.csproj.GenerateResource.Cache
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.Bll\obj\Debug\OnlineShopping.Bll.dll
+E:\Education\2016 ASP.NET-PARVES\OnlineShopping_Project\OnlineShopping.Bll\obj\Debug\OnlineShopping.Bll.pdb
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\OnlineShopping.Bll.dll.config
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\OnlineShopping.Bll.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\OnlineShopping.Bll.pdb
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\EntityFramework.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\EntityFramework.SqlServer.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\System.Web.Helpers.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\System.Web.Mvc.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\System.Web.Razor.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\System.Web.WebPages.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\EntityFramework.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\EntityFramework.SqlServer.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\System.Web.Helpers.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\System.Web.Mvc.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\System.Web.Razor.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\System.Web.WebPages.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.Bll\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.Bll\obj\Debug\OnlineShopping.Bll.csprojResolveAssemblyReference.cache
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.Bll\obj\Debug\OnlineShopping.Bll.Migrations.initial.resources
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.Bll\obj\Debug\OnlineShopping.Bll.csproj.GenerateResource.Cache
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.Bll\obj\Debug\OnlineShopping.Bll.dll
+E:\Education\Advanced Topic in Programming 2 (ASP.NET)\_Project\OnlineShopping_Project\OnlineShopping.Bll\obj\Debug\OnlineShopping.Bll.pdb
