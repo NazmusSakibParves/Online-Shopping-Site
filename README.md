@@ -1,13 +1,1 @@
-# Online-Shopping-Site
-
-Developed in: 2016-2017
-
-Developed by:
-
-S.M. Nazmus Sakib Parves
-
-Software Engineer 
-
-Email: parvesnazmussakib@gmail.com
-
-Contact: +8801723462142
+MVC 4.5, Entity Framework 6, validation, 2 user (Admin, customers) here customer need not to login for order as like as real Online shop site but The Admin must need to Authenticate, CRUD operation, Code first approach,1 report and In my project there are 4 types of product they are: Men, Women, Food, Beverage. All product showing there items with exact page numbers. Customer can Add Product Item by "Add to Cart"option and after add if they want they can remove it by "Remove" button. 
